@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabienOpticPerformance
 - 👀 I’m interested in symfony and react
-- 🌱 I’m currently learning react native=
+- 🌱 I’m currently learning react native
 - 📫 f.lebreuilly@optic-performance.com
 
 <!---
