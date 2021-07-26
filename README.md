@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react native
 - 📫 f.lebreuilly@optic-performance.com
 
-[![fabienOpticPerformance wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabienOpticPerformance)](https://github.com/anuraghazra/github-readme-stats)
+[![fabi504 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabi504)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabienOpticPerformance&show_icons=true&count_private=true)  
 
 <!---
