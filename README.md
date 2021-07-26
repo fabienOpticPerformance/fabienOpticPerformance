@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning react native
 - 📫 f.lebreuilly@optic-performance.com
 
-[![fabi504 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabi504)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabienOpticPerformance&show_icons=true&count_private=true)  
+[![fabi504 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabi504)]
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=fabienOpticPerformance&theme=dracula&area=true)]
 
 <!---
 fabienOpticPerformance/fabienOpticPerformance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
