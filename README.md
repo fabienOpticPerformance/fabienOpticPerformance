@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabienOpticPerformance
-- 👀 I’m interested in symfony and react
-- 🌱 I’m currently learning react native
+- 👀 I’m interested in symfony and Nuxt
+- 🌱 I’m currently learning Redis
 - 📫 f.lebreuilly@optic-performance.com
 
 [![fabi504 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabi504)]
