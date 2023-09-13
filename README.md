@@ -4,7 +4,6 @@
 - 📫 f.lebreuilly@optic-performance.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-fabienlebreuilly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabien-lebreuilly-881052153/)](https://www.linkedin.com/in/fabien-lebreuilly-881052153/)
-[![Gmail Badge](https://img.shields.io/badge/-f.lebreuilly@optic-performance.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f.lebreuilly@optic-performance.com)](mailto:f.lebreuilly@optic-performance.com)
 
 ## ⚡ Technologies
 
