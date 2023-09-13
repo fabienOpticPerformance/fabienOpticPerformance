@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Redis
 - 📫 f.lebreuilly@optic-performance.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/fabien-lebreuilly-881052153/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:f.lebreuilly@optic-performance.com)
+[![Linkedin Badge](https://img.shields.io/badge/-fabienlebreuilly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabien-lebreuilly-881052153/)](https://www.linkedin.com/in/fabien-lebreuilly-881052153/)
+[![Gmail Badge](https://img.shields.io/badge/-f.lebreuilly@optic-performance.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f.lebreuilly@optic-performance.com)](mailto:f.lebreuilly@optic-performance.com)
 
 ## ⚡ Technologies
 
@@ -25,6 +25,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fabienOpticPerformance&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabienOpticPerformance&hide=TeX&layout=compact)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fabienOpticPerformance)
+[![](https://visitcount.itsvg.in/api?id=fabienOpticPerformance&icon=0&color=0)](https://visitcount.itsvg.in)
